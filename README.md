@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Backend developer from Spain</h3>
 
-- 🌱 I’m currently learning **React, Laravel**
+- 🌱 I’m currently learning **React, Laravel, Angular**
 
 - 📫 How to reach me **fgrcalifa@gmail.com**
 
